@@ -1,0 +1,3 @@
+248  % (epoch, opt.nepoch, D_cost.data, G_cost.data, Wasserstein_D.data, c_errG.data))
+
+"mone" haro avaz kard
